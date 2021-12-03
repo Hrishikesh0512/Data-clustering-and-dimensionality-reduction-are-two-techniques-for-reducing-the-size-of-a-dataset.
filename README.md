@@ -14,6 +14,6 @@ Assume you want to create an environment that can predict a class/category from 
 * Purity score for Chebysev method: 89.52 %
 * Purity score for Minkowski method: 89.52 %
 
-#Part-2 (Dimensionality Reduction using PCA/SVD)
+# Part-2 (Dimensionality Reduction using PCA/SVD)
 <img src = https://github.com/Hrishikesh0512/Images/blob/main/33.png >
 <img src = https://github.com/Hrishikesh0512/Images/blob/main/34.png >
