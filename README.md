@@ -3,8 +3,10 @@ Assume you want to create an environment that can predict a class/category from 
 
 # Solution
 # Determining nunmber of clusters by Elbow Plot
+
 <img src = https://github.com/Hrishikesh0512/Images/blob/main/31.png >
 <img src = https://github.com/Hrishikesh0512/Images/blob/main/32.png >
+
 # The Purity scores for various algorithms
 * Purity score for Euclidian Method: 89.52 %
 * Purity score for Manhattan Method: 89.52 %
